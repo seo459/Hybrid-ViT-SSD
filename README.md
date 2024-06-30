@@ -21,6 +21,10 @@
 ## Introduction
 This project focuses on upgrading the Vision Transformer (ViT) model, for image classification. To enhance the performance of the ViT model, we implement an additional preprocessing step using the SSD model before the Input Embedding process.
 
+![image](https://github.com/seo459/Hybrid-ViT-SSD/assets/72679290/1dabd85a-43dc-43bf-8494-9d8f0e6b29cc)
+
+![image](https://github.com/seo459/Hybrid-ViT-SSD/assets/72679290/a2b36c89-f81b-4449-a8d1-24b90eb66ec0)
+
 ## Background
 
 ### Vision Transformer (ViT)
